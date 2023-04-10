@@ -1,0 +1,6 @@
+VGGFace2 - https://www.kaggle.com/datasets/greatgamedota/vggface2-test
+Flicker 8K Dataset - https://www.kaggle.com/datasets/adityajn105/flickr8k
+
+(Test Videos have already been uploaded)
+
+(Sorry sir, uploading dataset was not possible due to the size of 3 GB in total)
